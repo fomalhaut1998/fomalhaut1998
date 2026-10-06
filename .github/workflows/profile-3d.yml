@@ -23,6 +23,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          # 用 conf/ 里的配置：一次出 day.svg（白底）和 night.svg（夜景彩虹）
+          SETTING_JSON: conf/github-profile-3d-contrib.json          
 
       - name: 提交回 main
         run: |

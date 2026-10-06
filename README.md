@@ -2,7 +2,7 @@
 
 # Hi, I'm Fomalhaut 🥝
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2D9C72&center=true&vCenter=true&width=620&lines=Future+is+now+%F0%9F%8D%AD;%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E8%A1%8C%E4%B8%9A+%C2%B7+%E5%B7%A5%E7%A8%8B%E5%B8%88;%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%B9%9F%E5%86%99%E5%8D%9A%E5%AE%A2%EF%BC%8C%E8%BF%98%E5%81%9A%E7%82%B9 AI %E5%B0%8F%E4%B8%9C%E8%A5%BF" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2D9C72&center=true&vCenter=true&width=620&lines=Future+is+now+%F0%9F%8D%AD;%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E8%A1%8C%E4%B8%9A+%C2%B7+%E5%B7%A5%E7%A8%8B%E5%B8%88" alt="typing" />
 
 <a href="https://www.fomal.cc"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-fomal.cc-2d9c72?style=for-the-badge&logo=hexo&logoColor=white" alt="blog" /></a>
 <a href="https://space.bilibili.com/220757832"><img src="https://img.shields.io/badge/Bilibili-220757832-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧑💻 关于我
+## 🧑‍💻 关于我
 
 <div><img align="right" alt="pusheen" src="/assets/pusheencode.webp" width="300" /></div>
 
@@ -55,7 +55,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
-![Pug](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=Pug&logoColor=ffffff)
+![Pug](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
 ![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)
 
 **工程 / 工具**
@@ -113,7 +113,7 @@
 </tr>
 </table>
 
-## 📈 GitHub 数据 · 贡献热力图
+## 📈 我的 GitHub
 
 <div align="center">
 
@@ -121,6 +121,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats.svg" />
   <img alt="GitHub 数据" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats.svg" width="840" />
 </picture>
+
+</div>
+
+## 🐍 贡献热力图
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/contrib-heatmap.svg" />

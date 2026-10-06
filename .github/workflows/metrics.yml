@@ -1,15 +1,24 @@
-# 官方 lowlighter/metrics 的 classic 卡片（用户所选：项目里那版）
-# 放到 .github/workflows/metrics.yml，先在仓库里加一个 Secret：METRICS_TOKEN
-#   GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
-#   → Generate new token (classic)，勾选 repo 与 read:user（要统计组织再加 read:org）→ 复制
-#   回到仓库 → Settings → Secrets and variables → Actions → New repository secret → 名称 METRICS_TOKEN
-# 没配 Secret 也能跑（会退化成 GITHUB_TOKEN，只统计公开数据、部分指标显示不出来）
+# 官方 lowlighter/metrics（用户选定，2026-10-06）
+# 位置：.github/workflows/metrics.yml
+#
+# ⚠️ 关键点（官方文档 + 实测）：
+#   1) metrics 默认 output_action 就是 commit —— 它自己会把渲染结果提交进仓库，
+#      **不要**再自己写 git add/commit 步骤（那个文件在容器内，工作站里看不到：
+#      fatal: pathspec 'metrics.svg' did not match any files）。
+#   2) 因此也不需要 actions/checkout。
+#   3) 必须配 PAT（Secret 名 METRICS_TOKEN）：用户级数据（issues、PR、评论、提交、活动等）
+#      用默认 GITHUB_TOKEN 读不到，不配的话卡片基本是空的。
+#      GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
+#      → 勾 repo + read:user（要组织再加 read:org）→ 仓库 Settings → Secrets and variables
+#      → Actions → New repository secret → 名称 METRICS_TOKEN
 name: Metrics 信息图
 
 on:
   schedule:
     - cron: '0 16 * * *'     # 16:00 UTC = 次日 00:00 北京时间
   workflow_dispatch:
+  # 注意：不要加 push 触发器 —— metrics 会自己提交，而卡片里带日期，内容每次都变，
+  # push → 触发 → 再提交 会变成死循环。
 
 permissions:
   contents: write
@@ -19,28 +28,25 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: 生成 metrics.svg
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: fomalhaut1998
+          filename: metrics.svg
           template: classic
           config_timezone: Asia/Shanghai
           config_animations: yes
 
-          # 左侧指标：header 顶部信息 / activity 贡献统计 / repositories 仓库数 / metadata 元数据
+          # 左侧指标：header 顶部信息 / activity 活动统计 / repositories 仓库列表 / metadata 元数据
           base: header, activity, repositories, metadata
 
-          # 「PR 代码增删」那一行（如 +4336 / -2220）——需要 PAT，否则该行留空
+          # PR 代码增删（截图里 +4336 / -2220 那行）
           plugin_lines: yes
 
-          # 右侧活动曲线：多序列时间线，filter 决定画哪些类型
+          # 活动曲线（截图右侧多序列）
           plugin_activity: yes
           plugin_activity_limit: 8
           plugin_activity_days: 0
@@ -52,22 +58,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_ignored: html, css
-
-          # ── 以下三行是「加料」，不想要就删掉 ──
-          plugin_isocalendar: yes                  # 等距 3D 日历
-          plugin_isocalendar_duration: half-year
-          plugin_habits: yes                       # 提交习惯（星期 / 时段）
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
-
-      - name: 提交回 main
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metrics.svg
-          if git diff --cached --quiet; then
-            echo "没有变化，跳过提交"
-          else
-            git commit -m "chore: 更新 metrics 信息图 [skip ci]"
-            git push
-          fi

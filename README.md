@@ -113,12 +113,14 @@
 </tr>
 </table>
 
-## 📈 GitHub Metrics · 贡献热力图 · 活动曲线 · 贪吃蛇 · 3D 贡献图
+## 📈 GitHub 数据看板 · 贡献热力图 · 活动曲线 · 贪吃蛇 · 3D 贡献图
 
 <div align="center">
 
-<!-- lowlighter/metrics 生成的 classic 卡片（单个 SVG 自带深色底，两种主题下都显示它） -->
-<img alt="GitHub Metrics" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/metrics.svg" width="840" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/dashboard.svg" />
+  <img alt="GitHub 数据看板" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/dashboard-light.svg" width="840" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/contrib-heatmap.svg" />

@@ -118,8 +118,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats.svg" />
-  <img alt="GitHub 数据" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats-light.svg" width="840" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img alt="3D 贡献图" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/profile-3d-contrib/profile-night-rainbow.svg" width="840" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/output/github-snake-dark.svg" />

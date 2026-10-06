@@ -22,7 +22,7 @@
 
 ## 🧑💻 关于我
 
-<div><img align="right" alt="pusheen" src="https://fomalhaut.s3.bitiful.net/assets/pusheencode.webp" width="300" /></div>
+<div><img align="right" alt="pusheen" src="/assets/pusheencode.webp" width="300" /></div>
 
 - 大家好，我是 🥝，来自广东江门
 - 目前就职于**通信设备行业**，是一名**工程师** —— 白天和协议、设备、现场打交道，晚上和编辑器、终端打交道

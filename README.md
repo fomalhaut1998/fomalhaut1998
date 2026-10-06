@@ -2,7 +2,7 @@
 
 # Hi, I'm Fomalhaut 🥝
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2D9C72&center=true&vCenter=true&width=620&lines=Future+is+now+%F0%9F%8D%AD;%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E8%A1%8C%E4%B8%9A+%C2%B7+%E5%B7%A5%E7%A8%8B%E5%B8%88" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2D9C72&center=true&vCenter=true&width=620&lines=Future+is+now+%F0%9F%8D%AD%F0%9F%8D%AD%F0%9F%8D%AD;%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E8%A1%8C%E4%B8%9A+%C2%B7+%E5%B7%A5%E7%A8%8B%E5%B8%88" alt="typing" />
 
 <a href="https://www.fomal.cc"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-fomal.cc-2d9c72?style=for-the-badge&logo=hexo&logoColor=white" alt="blog" /></a>
 <a href="https://space.bilibili.com/220757832"><img src="https://img.shields.io/badge/Bilibili-220757832-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
@@ -22,10 +22,10 @@
 
 ## 🧑‍💻 关于我
 
-<div><img align="right" alt="pusheen" src="https://fomalhaut.s3.bitiful.net/assets/pusheencode.webp" width="300" /></div>
+<div><img align="right" alt="pusheen" src="assets/pusheencode.webp" width="300" /></div>
 
 - 大家好，我是 🥝，来自广东江门
-- 目前就职于**通信设备行业**，是一名**工程师** —— 白天和协议、设备、现场打交道，晚上和编辑器、终端打交道
+- 目前就职于**通信设备行业**，是一名**工程师** —— 白天和协议、设备打交道，晚上和编辑器、终端打交道
 - 长期感兴趣的方向：**数据结构与算法** · **前端体验** · **AI 与应用开发** · **Linux**
 - 业余维护自己的博客与开源主题，喜欢把脑子里那些「要是有个工具就好了」的念头，一点点做成能用的东西
 - 欢迎来我的 GitHub 逛逛，也欢迎来博客 / B站坐坐 🍧
@@ -113,7 +113,7 @@
 </tr>
 </table>
 
-## 📈 GitHub 数据看板 · 贡献热力图 · 活动曲线 · 贪吃蛇 · 3D 贡献图
+## 📈 GitHub 数据看板 · 贡献热力图 · 活动曲线 · 3D 贡献图
 
 <div align="center">
 
@@ -132,10 +132,6 @@
   <img alt="活动曲线" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/activity-light.svg" width="840" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/output/github-snake-dark.svg" />
-  <img alt="贪吃蛇" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/output/github-snake.svg" width="840" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/profile-3d-contrib/night.svg" />

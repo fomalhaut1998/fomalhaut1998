@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 关于我
 
-<div><img align="right" alt="pusheen" src="/assets/pusheencode.webp" width="300" /></div>
+<div><img align="right" alt="pusheen" src="https://fomalhaut.s3.bitiful.net/assets/pusheencode.webp" width="300" /></div>
 
 - 大家好，我是 🥝，来自广东江门
 - 目前就职于**通信设备行业**，是一名**工程师** —— 白天和协议、设备打交道，晚上和编辑器、终端打交道
@@ -113,24 +113,23 @@
 </tr>
 </table>
 
-## 📈 我的 GitHub
+## 📈 GitHub 数据 · 贡献热力图
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats.svg" />
-  <img alt="GitHub 数据" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats.svg" width="840" />
+  <img alt="GitHub 数据" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats-light.svg" width="840" />
 </picture>
 
 </div>
 
-## 🐍 贡献热力图
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/contrib-heatmap.svg" />
-  <img alt="贡献热力图" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/contrib-heatmap.svg" width="840" />
+  <img alt="贡献热力图" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/contrib-heatmap-light.svg" width="840" />
 </picture>
 
 </div>

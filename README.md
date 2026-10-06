@@ -25,7 +25,7 @@
 <div><img align="right" alt="pusheen" src="https://fomalhaut.s3.bitiful.net/assets/pusheencode.webp" width="300" /></div>
 
 - 大家好，我是 🥝，来自广东江门
-- 目前就职于**通信设备行业**，是一名**工程师** —— 白天和协议、设备打交道，晚上和编辑器、终端打交道
+- 目前就职于**通信设备行业**，是一名**工程师** —— 白天和协议、设备、现场打交道，晚上和编辑器、终端打交道
 - 长期感兴趣的方向：**数据结构与算法** · **前端体验** · **AI 与应用开发** · **Linux**
 - 业余维护自己的博客与开源主题，喜欢把脑子里那些「要是有个工具就好了」的念头，一点点做成能用的东西
 - 欢迎来我的 GitHub 逛逛，也欢迎来博客 / B站坐坐 🍧
@@ -113,18 +113,21 @@
 </tr>
 </table>
 
-## 📈 GitHub 数据 · 贡献热力图 · 贪吃蛇 · 3D 贡献图
+## 📈 GitHub Metrics · 贡献热力图 · 活动曲线 · 贪吃蛇 · 3D 贡献图
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats.svg" />
-  <img alt="GitHub 数据" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats-light.svg" width="840" />
-</picture>
+<!-- lowlighter/metrics 生成的 classic 卡片（单个 SVG 自带深色底，两种主题下都显示它） -->
+<img alt="GitHub Metrics" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/metrics.svg" width="840" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/contrib-heatmap.svg" />
   <img alt="贡献热力图" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/contrib-heatmap-light.svg" width="840" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/activity.svg" />
+  <img alt="活动曲线" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/activity-light.svg" width="840" />
 </picture>
 
 <picture>

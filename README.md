@@ -1,68 +1,147 @@
-<img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
+<div align="center">
 
-## 一只低调的猕猴桃—Fomalhaut🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
+# Hi, I'm Fomalhaut 🥝
 
-### 自我介绍
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2D9C72&center=true&vCenter=true&width=620&lines=Future+is+now+%F0%9F%8D%AD;%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E8%A1%8C%E4%B8%9A+%C2%B7+%E5%B7%A5%E7%A8%8B%E5%B8%88;%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%B9%9F%E5%86%99%E5%8D%9A%E5%AE%A2%EF%BC%8C%E8%BF%98%E5%81%9A%E7%82%B9 AI %E5%B0%8F%E4%B8%9C%E8%A5%BF" alt="typing" />
 
-<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
+<a href="https://www.fomal.cc"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-fomal.cc-2d9c72?style=for-the-badge&logo=hexo&logoColor=white" alt="blog" /></a>
+<a href="https://space.bilibili.com/220757832"><img src="https://img.shields.io/badge/Bilibili-220757832-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
+<a href="https://leetcode.cn/u/fomalhaut1998/"><img src="https://img.shields.io/badge/LeetCode-fomalhaut1998-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>
+<a href="https://github.com/fomalhaut1998/hexo-theme-Fomalhaut"><img src="https://img.shields.io/badge/Hexo%20Theme-Fomalhaut-6513df?style=for-the-badge&logo=hexo&logoColor=white" alt="theme" /></a>
 
-- 大家好，我是🥝，来自广东江门
-- 目前是一名机械在读研究生
-- 对数据结构与算法、前端、Linux驱动感兴趣
-- 欢迎光临我的Github 🍧
+<br />
 
+<img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E8%AE%BF%E9%97%AE-100%E4%B8%87%2B-2d9c72?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/B%E7%AB%99%E6%92%AD%E6%94%BE-20%E4%B8%87%2B-FB7299?style=flat-square&logo=bilibili&logoColor=white" />
+<img src="https://img.shields.io/badge/B%E7%AB%99%E7%B2%89%E4%B8%9D-2300%2B-00A1D6?style=flat-square&logo=bilibili&logoColor=white" />
+<img src="https://img.shields.io/badge/%E4%B8%BB%E9%A2%98%20Star-1000%2B-6513df?style=flat-square&logo=github&logoColor=white" />
 
-### 社交主页
+</div>
 
+---
 
+## 🧑💻 关于我
 
-- <a href="https://www.fomal.cc"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量累计30万+
-- <a href="https://space.bilibili.com/220757832"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量10万+，粉丝累计1400+
-- <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页，粉丝累计100+
+<div><img align="right" alt="pusheen" src="https://fomalhaut.s3.bitiful.net/assets/pusheencode.webp" width="300" /></div>
 
+- 大家好，我是 🥝，来自广东江门
+- 目前就职于**通信设备行业**，是一名**工程师** —— 白天和协议、设备、现场打交道，晚上和编辑器、终端打交道
+- 长期感兴趣的方向：**数据结构与算法** · **前端体验** · **AI 与应用开发** · **Linux**
+- 业余维护自己的博客与开源主题，喜欢把脑子里那些「要是有个工具就好了」的念头，一点点做成能用的东西
+- 欢迎来我的 GitHub 逛逛，也欢迎来博客 / B站坐坐 🍧
 
+<br clear="right" />
 
+## 🔭 我在忙什么
 
-### 技术栈
-![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
-![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
-![ARM](https://img.shields.io/badge/-ARM-%23c9e735?style=flat&logo=ARM&logoColor=242424)
-![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
-![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
-![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
+- 🎨 维护 Hexo 主题 [**hexo-theme-Fomalhaut**](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut)：1000+ Star、149+ Fork，被不少朋友用来搭自己的小站
+- 🌐 打理个人小站 [**fomal.cc**](https://www.fomal.cc)：访问量 100 万+，图床、访问统计、友链自动化都是自己写的
+- 🤖 折腾 AI：把大模型接进博客与日常工作流，研究怎么让它真正替我省时间，而不是多一个玩具
+- 🧩 写点小工具：GitHub 日历数据、友链爬虫、格式清理……能用脚本解决的，绝不重复劳动
+
+## 🛠️ 技术栈
+
+**AI / 数据**
+
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat&logo=PyTorch&logoColor=ffffff)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%23FFD21E?style=flat&logo=HuggingFace&logoColor=000000)
+![LangChain](https://img.shields.io/badge/-LangChain-%231C3C3C?style=flat&logo=LangChain&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/-Jupyter-%23F37626?style=flat&logo=Jupyter&logoColor=ffffff)
+
+**前端 / Web**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
+![Pug](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=Pug&logoColor=ffffff)
+![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)
+
+**工程 / 工具**
+
+![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
+![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
+![Markdown](https://img.shields.io/badge/-Markdown-%23000000?style=flat&logo=Markdown&logoColor=ffffff)
 
+## 📦 开源项目
 
-### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut)
-&emsp;&emsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
-<br> -->
+### 🎨 hexo-theme-Fomalhaut
 
-<!-- ### 编程语言 -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&langs_count=6&theme=tokyonight) -->
+基于 Butterfly 深度定制的 Hexo 主题，1000+ Star。
 
-### Github 状态图
-[![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=tokyonight)
+[源码](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut) · [在线效果](https://www.fomal.cc)
 
-### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fomalhaut1998&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</td>
+<td width="50%" valign="top">
 
-<br>
+### 🌐 fomalhaut1998.github.io
 
-### 投喂作者🍭🍭🍭
+个人网站源码，访问量 100 万+，塞满了自研的图床、统计与 AI 小工具。
 
-<a href="https://www.fomal.cc/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
+[源码](https://github.com/fomalhaut1998/fomalhaut1998.github.io) · [在线访问](https://www.fomal.cc)
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ PicGoDemo
+
+一行配置就能用的图床方案小抄，30+ Star。
+
+[源码](https://github.com/fomalhaut1998/PicGoDemo)
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 gitcalendar-data
+
+每 6 小时自动抓一次 GitHub 贡献数据并推到 jsDelivr，给前端直接用。
+
+[源码](https://github.com/fomalhaut1998/gitcalendar-data)
+
+</td>
+</tr>
+</table>
+
+## 📈 GitHub 数据 · 贡献热力图
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats.svg" />
+  <img alt="GitHub 数据" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/github-stats.svg" width="840" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/contrib-heatmap.svg" />
+  <img alt="贡献热力图" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/contrib-heatmap.svg" width="840" />
+</picture>
+
+</div>
+
+## 🍭 投喂作者
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85-%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD-b0b0b0?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="投喂暂时关闭" />
+
+**感谢每一份喜欢 🌱 打赏入口暂时关闭，最好的支持是点个 Star、来博客留个言。**
+
+</div>
+
+<div align="center">
+<br />
+<img src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru" alt="visitors" />
+<br /><br />
+<sub>「 Future is now 🍭 」— 最后更新于 2026-10</sub>
+</div>

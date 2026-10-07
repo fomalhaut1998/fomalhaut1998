@@ -7,7 +7,7 @@
 <a href="https://www.fomal.cc"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-fomal.cc-2d9c72?style=for-the-badge&logo=hexo&logoColor=white" alt="blog" /></a>
 <a href="https://space.bilibili.com/220757832"><img src="https://img.shields.io/badge/Bilibili-220757832-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
 <a href="https://leetcode.cn/u/fomalhaut1998/"><img src="https://img.shields.io/badge/LeetCode-fomalhaut1998-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>
-<a href="https://github.com/fomalhaut1998/hexo-theme-Fomalhaut"><img src="https://img.shields.io/badge/Hexo%20Theme-Fomalhaut-6513df?style=for-the-badge&logo=hexo&logoColor=white" alt="theme" /></a>
+<a href="https://github.com/fomalhaut1998/hexo-theme-fomalhaut"><img src="https://img.shields.io/badge/Hexo%20Theme-Fomalhaut-6513df?style=for-the-badge&logo=hexo&logoColor=white" alt="theme" /></a>
 
 <br />
 
@@ -34,7 +34,7 @@
 
 ## 🔭 我在忙什么
 
-- 🎨 维护 Hexo 主题 [**hexo-theme-Fomalhaut**](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut)：1000+ Star、149+ Fork，被不少朋友用来搭自己的小站
+- 🎨 维护 Hexo 主题 [**hexo-theme-fomalhaut**](https://github.com/fomalhaut1998/hexo-theme-fomalhaut)：1000+ Star、149+ Fork，被不少朋友用来搭自己的小站
 - 🌐 打理个人小站 [**fomal.cc**](https://www.fomal.cc)：访问量 100 万+，图床、访问统计、友链自动化都是自己写的
 - 🤖 折腾 AI：把大模型接进博客与日常工作流，研究怎么让它真正替我省时间，而不是多一个玩具
 - 🧩 写点小工具：GitHub 日历数据、友链爬虫、格式清理……能用脚本解决的，绝不重复劳动
@@ -74,11 +74,11 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 hexo-theme-Fomalhaut
+### 🎨 hexo-theme-fomalhaut
 
 基于 Butterfly 深度定制的 Hexo 主题，1000+ Star。
 
-[源码](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut) · [在线效果](https://www.fomal.cc)
+[源码](https://github.com/fomalhaut1998/hexo-theme-fomalhaut) · [在线效果](https://www.fomal.cc)
 
 </td>
 <td width="50%" valign="top">

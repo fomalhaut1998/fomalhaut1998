@@ -34,10 +34,10 @@
 
 ## 🔭 我在忙什么
 
-- 🎨 维护 Hexo 主题 [**hexo-theme-fomalhaut**](https://github.com/fomalhaut1998/hexo-theme-fomalhaut)：1000+ Star、149+ Fork，被不少朋友用来搭自己的小站
+- 🎨 维护 Hexo 主题 [**hexo-theme-fomalhaut**](https://github.com/fomalhaut1998/hexo-theme-fomalhaut)：1000+ Star、150+ Fork，被不少朋友用来搭自己的小站
 - 🌐 打理个人小站 [**fomal.cc**](https://www.fomal.cc)：访问量 100 万+，图床、访问统计、友链自动化都是自己写的
 - 🤖 折腾 AI：把大模型接进博客与日常工作流，研究怎么让它真正替我省时间，而不是多一个玩具
-- 🧩 写点小工具：GitHub 日历数据、友链爬虫、格式清理……能用脚本解决的，绝不重复劳动
+- 🧩 给 [**DeepSeek Harness**](https://github.com/deepseek-ai/deepseek-harness) 写插件：搜图、会话查找、AI 研究三件套，能用脚本解决的，绝不重复劳动
 
 ## 🛠️ 技术栈
 
@@ -76,38 +76,58 @@
 
 ### 🎨 hexo-theme-fomalhaut
 
-基于 Butterfly 深度定制的 Hexo 主题，1000+ Star。
+基于 Butterfly 深度定制的 Hexo 主题，1000+ Star、150+ Fork。
 
 [源码](https://github.com/fomalhaut1998/hexo-theme-fomalhaut) · [在线效果](https://www.fomal.cc)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 fomalhaut1998.github.io
+### 📈 us-market-dashboard
 
-个人网站源码，访问量 100 万+，塞满了自研的图床、统计与 AI 小工具。
+Next.js 美股估值与情绪看板：指数、波动率结构、恐惧贪婪、估值分位放一屏。
 
-[源码](https://github.com/fomalhaut1998/fomalhaut1998.github.io) · [在线访问](https://www.fomal.cc)
+[源码](https://github.com/fomalhaut1998/us-market-dashboard) · [在线看板](https://us-market.fomal.cc)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ PicGoDemo
+### 🖼️ dsh-image-hunt
 
-一行配置就能用的图床方案小抄，30+ Star。
+给 DSH 加的一双眼睛：14 个图源搜图 → 下载进工作区 → 对话里直接出图。
 
-[源码](https://github.com/fomalhaut1998/PicGoDemo)
+[源码](https://github.com/fomalhaut1998/dsh-image-hunt) · [npm](https://www.npmjs.com/package/dsh-image-hunt)
 
 </td>
 <td width="50%" valign="top">
 
-### 📅 gitcalendar-data
+### 🔍 dsh-session-find
 
-每 6 小时自动抓一次 GitHub 贡献数据并推到 jsDelivr，给前端直接用。
+给 DSH 补上会话内 Ctrl+F：按来源归因、按轮次分组，纯本地搜索不联网。
 
-[源码](https://github.com/fomalhaut1998/gitcalendar-data)
+[源码](https://github.com/fomalhaut1998/dsh-session-find) · [npm](https://www.npmjs.com/package/dsh-session-find)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 dsh-ai-research
+
+AI 研究三件套：模型发布雷达、模型横评口碑、AI 新闻日报，零依赖 Node。
+
+[源码](https://github.com/fomalhaut1998/dsh-ai-research) · [npm](https://www.npmjs.com/package/dsh-ai-research)
+
+</td>
+<td width="50%" valign="top">
+
+### 🪪 fomalhaut1998
+
+你现在看到的这个主页：看板、热力图、3D 贡献图每天自动生成，fork 即可套用。
+
+[源码](https://github.com/fomalhaut1998/fomalhaut1998)
 
 </td>
 </tr>
@@ -132,7 +152,6 @@
   <img alt="活动曲线" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/assets/activity-light.svg" width="840" />
 </picture>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/profile-3d-contrib/night.svg" />
   <img alt="3D 贡献图" src="https://raw.githubusercontent.com/fomalhaut1998/fomalhaut1998/main/profile-3d-contrib/day.svg" width="840" />
@@ -154,5 +173,5 @@
 <br />
 <img src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru" alt="visitors" />
 <br /><br />
-<sub>「 Future is now 🍭🍭🍭 」— 最后更新于 2026-10-24</sub>
+<sub>「 Future is now 🍭🍭🍭 」— 最后更新于 2026-10-25</sub>
 </div>

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-22T08:03:18.800Z",
+  "generatedAt": "2026-11-23T09:10:05.144Z",
   "source": "graphql",
-  "total": 104,
+  "total": 110,
   "activeDays": 23,
-  "currentStreak": 1,
+  "currentStreak": 0,
   "longestStreak": 7,
   "bestDay": {
     "date": "2026-10-18",
@@ -11,10 +11,6 @@
   },
   "max": 21,
   "days": [
-    {
-      "date": "2025-11-23",
-      "count": 0
-    },
     {
       "date": "2025-11-24",
       "count": 0
@@ -1469,7 +1465,11 @@
     },
     {
       "date": "2026-11-22",
-      "count": 8
+      "count": 14
+    },
+    {
+      "date": "2026-11-23",
+      "count": 0
     }
   ]
 }
